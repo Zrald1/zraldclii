@@ -13,7 +13,21 @@ zralds
 - Policy: device cap `1,000,000` one-week expiry window starts when cap is reached
 
 
+Best Combination for Cost-Effective Usage (Ideal for ordinary tasks with low complexity.)     
+Main: Copilot GPT-5.4 Mini
+Read: Copilot Gemini 3 Pro Preview 
+Write: Copilot GPT-5 Mini 
+Best Combination for Medium Complexity (Balances high productivity with efficient token usage.)
+Main: Claude 4.6 Sonnet
+Read: Copilot Gemini 3 Pro Preview
+Write: GPT-5.3 Codex
+Best Combination for High Complexity (Prioritizes optimal AI performance over token conservation.)
+Main: Claude 4.7 Opus
+Thinking: GPT-5.4 Pro Thinking
+Read: Gemini 3.1
+Write: Claude 4.7 Opus / GPT-5.4 Pro
 
+<img width="637" height="174" alt="image" src="https://github.com/user-attachments/assets/88c4b687-9f01-4f2d-b7cf-d5197e08808e" />
 
 ## What Zrald CLI Does
 
@@ -66,6 +80,7 @@ Zrald uses both semantic and structural analysis to solve difficult coding probl
 - **Graph Index**: dependency relationships and import/export paths ("what is connected to this file?")
 
 Used together, they improve root-cause tracing, reduce duplicate work, and lower regression risk during edits.
+
 
 
 - Website: https://zraldcli.zraldcli.zraldwebdevelopmentservices.shop
