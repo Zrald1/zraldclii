@@ -12,6 +12,27 @@ zralds
 - License key: `ZRLD-AF7F-94C2-C7AC-B261-09DC-9E85`
 - Policy: device cap `1,000,000` one-week expiry window starts when cap is reached
 
+
+
+Mac Setup 
+
+
+Install docker 
+```bash
+brew install --cask docker
+```
+Install Qdrant and Falkordb 
+```bash
+docker run -p 6333:6333 -p 6334:6334 \
+    -v "$(pwd)/qdrant_storage:/qdrant/storage:z" \
+    qdrant/qdrant
+```
+```bash
+docker run -p 6379:6379 -p 3000:3000 \
+    -it --rm falkordb/falkordb:latest
+```
+
+
 Best Combination for Cost-Effective Usage
 (Ideal for ordinary tasks with low complexity.)
 
