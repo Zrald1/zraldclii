@@ -96,5 +96,5 @@ Used together, they improve root-cause tracing, reduce duplicate work, and lower
 
 
 
-- Website: https://zraldcli.zraldcli.zraldwebdevelopmentservices.shop
+- Website: https://zraldcli.zraldwebdevelopmentservices.shop
 
