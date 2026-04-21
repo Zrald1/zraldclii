@@ -10,7 +10,7 @@ zralds
 
 - Email: `freetrial@zraldwebdevelopmentservices.shop`
 - License key: `ZRLD-AF7F-94C2-C7AC-B261-09DC-9E85`
-- Policy: device cap `1,000,000` one-week expiry window starts when cap is reached
+
 
 
 To Use Code index (qdrant) and Graph Index (falkordb) you can set up locally using docker 
