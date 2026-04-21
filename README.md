@@ -1,4 +1,4 @@
-# Zrald CLI Showcase (Preview)
+# Zrald CLI
 
 ```bash
 npm install -g zraldcli
