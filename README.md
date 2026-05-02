@@ -8,8 +8,6 @@ npm install -g zraldcli
 zralds
 ```
 
-- Email: `freetrial@zraldwebdevelopmentservices.shop`
-- License key: `ZRLD-AF7F-94C2-C7AC-B261-09DC-9E85`
 
 
 
